@@ -2,4 +2,6 @@
   "id": "1",
   "email": "root@root.com",
   "password": "root123",
+  
+  "required": ["email", "password"]
 }
