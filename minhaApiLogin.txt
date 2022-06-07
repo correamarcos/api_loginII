@@ -1,0 +1,5 @@
+{
+  "id": "1",
+  "email": "root@root.com",
+  "password": "root123",
+}
